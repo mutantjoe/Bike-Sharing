@@ -10,7 +10,7 @@ These are the steps in installing the project to your own virtual enviroment
 
 2. Move to directory Bike-Sharing
    ```
-   cd Belajar-Bike-Sharing
+   cd Bike-Sharing
    ```
 
 3. Install all the requirements that are laid out in the requirements.txt
